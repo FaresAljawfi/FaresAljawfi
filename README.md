@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaresAljawfi
+- 👋 Hi, I’m @Fares
 - 👀 I’m interested in creating machine learning models
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on ...
